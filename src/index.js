@@ -1,5 +1,5 @@
 /**
  * @file index.js 
- * @author SEDIC S.A
+ * @author Edwin Sánchez
  * @version 1.1
  */
